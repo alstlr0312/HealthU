@@ -1,0 +1,144 @@
+{
+  "project": {
+    "id": "bf3b7e6db6f94d89877d3669fd3f318a",
+    "name": "abc",
+    "source": {
+      "file": "C:/Users/alstl/Downloads/abc.fbx",
+      "date": "1676298100056"
+    },
+    "converted": {
+      "file": ".converted/abc.pvz",
+      "date": "1676298241110"
+    },
+    "shadow": {
+      "file": ".shadow/abc.glb",
+      "date": "1676298241964"
+    },
+    "bubbleGummed": {
+      "file": ".bubblegummed/abc.glb",
+      "date": "0"
+    },
+    "simplified": {
+      "file": "",
+      "date": ""
+    },
+    "assemblyId": "c516f2cb8b1247e68deb73fad01f925a",
+    "numDraws": 3,
+    "numPolygons": 71614,
+    "bubbleGummingSkipped": false,
+    "isBubbleGummed": true,
+    "originalNumMaterials": 1,
+    "originalNumTextures": 0,
+    "originalNumDraws": 3,
+    "originalNumPolygons": 71614,
+    "realisticTextureDetection": false
+  },
+  "progress": {
+    "skipGuideViewWizard": false,
+    "upVector": 2,
+    "units": 2,
+    "coloring": 2,
+    "simplification": 2,
+    "optimizeTrackingFor": 2
+  },
+  "camera": {
+    "rotation": [
+      -0.08477098063117669,
+      0.18604752405488867,
+      0.01611394308107648,
+      0.9787443693193087
+    ],
+    "translation": [
+      0.11226782781941932,
+      0.04602298677169655,
+      0.2954968531992919
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "target": [
+      0,
+      0,
+      0
+    ]
+  },
+  "views": [
+    {
+      "name": "GuideView_0000",
+      "type": 1,
+      "rating": 5,
+      "guideViewPosition": {
+        "rotation": [
+          -0.08477098063117669,
+          0.18604752405488867,
+          0.01611394308107648,
+          0.9787443693193087
+        ],
+        "translation": [
+          0.21157142058503298,
+          0.09325910065150352,
+          0.547262959647556
+        ],
+        "up": [
+          0,
+          1,
+          0
+        ],
+        "target": [
+          -0.00001732267969589696,
+          -0.0073881135548173466,
+          0.010818380187299678
+        ]
+      },
+      "targetExtent": null,
+      "recognitionRanges": null,
+      "userVolume": null,
+      "images": [
+        {
+          "type": "edge",
+          "file": "GuideView_0000_2.png"
+        },
+        {
+          "type": "shaded",
+          "file": "GuideView_0000_1.png"
+        }
+      ],
+      "device": 1,
+      "targetExtentPreset": null,
+      "recognitionRangesPreset": null
+    }
+  ],
+  "orbitcontrols": {
+    "target": [
+      -0.00001732267969589696,
+      -0.0073881135548173466,
+      0.010818380187299678
+    ],
+    "worldUpVector": [
+      0,
+      1,
+      0
+    ]
+  },
+  "orbitdetection": {
+    "target": [
+      -0.00001732267969589696,
+      -0.0073881135548173466,
+      0.010818380187299678
+    ],
+    "worldUpVector": [
+      0,
+      1,
+      0
+    ]
+  },
+  "simplification": {
+    "progress": "0%"
+  },
+  "uniformScale": 1,
+  "optimizeTrackingFor": "default",
+  "realisticAppearance": "false",
+  "version": 7
+}

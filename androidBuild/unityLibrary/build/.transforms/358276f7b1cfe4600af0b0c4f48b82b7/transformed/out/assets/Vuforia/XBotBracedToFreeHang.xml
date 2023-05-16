@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="XBotBracedToFreeHang" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="XBotBracedToFreeHangs_assembly" assemblyId="e695512a76dc4099b58e8bd19f551ac1">
+<Part name="XBotBracedToFreeHang" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0001" translation="-2.69216 52.2774 475.095" rotation="AD: 1 -0.000355268 0.00404806 190.031" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

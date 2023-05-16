@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.13.3">
+<ModelTarget name="low-poly-fox-by-pixelmannen" targetId="11770a37d0434553b0370fabcaced269" version="14.0" toolVersion="10.13.3" bbox="-12.652243 -0.197328 -88.170586 12.668302 79.014404 66.700447" previewImage="11770a37d0434553b0370fabcaced269_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="low-poly-fox-by-pixelmannens_assembly" assemblyId="bcbc7cbcaddc45b4b156bc969e38d0c8">
+<Part name="low-poly-fox-by-pixelmannen" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-10.5931 35.9648 451.468" rotation="AD: 0.991976 0.200691 -0.842964 200.33" image="low-poly-fox-by-pixelmannen_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

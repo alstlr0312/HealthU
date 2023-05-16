@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v5.7.9">
+        <ModelTarget name="cpa2" targetId="cc0e8bd3654546fe955ef1c87e039793" bbox="16.703905 -28.184835 12.702888 27.752375 -12.034664 34.079956" version="13.0" toolVersion="v5.7.9" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="aa1" targetId="50bc0b5a0d4347c4804236a290a3a5d6" bbox="-0.495222 -0.212058 -0.741205 0.452406 0.159561 0.618523" version="13.0" toolVersion="v5.7.9" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="aa2" targetId="47ff0405f98548ae9c9d9a980ded48cf" bbox="-0.263684 -0.355219 -0.126246 0.279041 0.318338 0.352707" version="13.0" toolVersion="v5.7.9" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="cpa2" assemblyId="8547a418498143b38e596675c045a96c">
+        <Part name="cpa2" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="aa1" assemblyId="d018ad9b5e4646e7a3148f94e09a01f3">
+        <Part name="aa1" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="aa2" assemblyId="1738e3d22b7e41bda67da57694f9f1f3">
+        <Part name="aa2" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <ModelTargetDatabase mtDBid="251673db59eb4bf197c46f50e17387a4" name="cap01" toolVersion="v5.7.9" version="36.0" />
+</QCARInfo>

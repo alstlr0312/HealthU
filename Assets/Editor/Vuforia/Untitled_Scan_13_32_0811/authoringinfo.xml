@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.13.3">
+<ModelTarget name="Untitled_Scan_13_32_0811" targetId="0ec62fd37f0c4fcfa91c98a814dc72df" version="14.0" toolVersion="10.13.3" bbox="-0.624441 -1.119092 -1.012402 0.624092 1.119092 0.969085" previewImage="0ec62fd37f0c4fcfa91c98a814dc72df_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Untitled_Scan_13_32_0811s_assembly" assemblyId="84607417a0d441b8b04ed04b9282c3e4">
+<Part name="Untitled_Scan_13_32_0811" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.209882 -0.0916593 3.91321" rotation="AD: 0.638156 -0.787743 4.70875 182.539" image="Untitled_Scan_13_32_0811_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.13.3">
+<ModelTarget name="XBotBracedToFreeHang" targetId="7907fb60bbb14b68868d2f6fb4320bea" version="14.0" toolVersion="10.13.3" bbox="-90.313278 -0.123501 -14.984088 90.345009 180.976700 17.276320" previewImage="7907fb60bbb14b68868d2f6fb4320bea_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="XBotBracedToFreeHangs_assembly" assemblyId="e695512a76dc4099b58e8bd19f551ac1">
+<Part name="XBotBracedToFreeHang" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0001" translation="-2.69216 52.2774 475.095" rotation="AD: 1 -0.000355268 0.00404806 190.031" image="XBotBracedToFreeHang_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

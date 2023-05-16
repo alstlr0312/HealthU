@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="low-poly-fox-by-pixelmannen" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="low-poly-fox-by-pixelmannens_assembly" assemblyId="bcbc7cbcaddc45b4b156bc969e38d0c8">
+<Part name="low-poly-fox-by-pixelmannen" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-10.5931 35.9648 451.468" rotation="AD: 0.991976 0.200691 -0.842964 200.33" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

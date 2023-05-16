@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="abc" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="abcs_assembly" assemblyId="c516f2cb8b1247e68deb73fad01f925a">
+<Part name="abc" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00398557 -0.00900737 0.59402" rotation="AD: 0.999995 0.0164638 -0.190087 189.726" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

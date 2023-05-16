@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.13.3">
+<ModelTarget name="BracedToFreeHang" targetId="66ed5830505c4faa9874c50b9fdd3a80" version="14.0" toolVersion="10.13.3" bbox="-0.903104 -0.001214 -0.149841 0.903450 1.809767 0.172758" previewImage="66ed5830505c4faa9874c50b9fdd3a80_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="BracedToFreeHangs_assembly" assemblyId="e5e57a942b2f4f1997fcbf0a0bccefcc">
+<Part name="BracedToFreeHang" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00218478 0.635739 4.97288" rotation="AD: 0.999996 0.0363498 -0.0885847 224.437" image="BracedToFreeHang_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
