@@ -449,11 +449,7 @@
         441,
         442,
         443,
-        444,
-        445,
-        446,
-        447,
-        448
+        444
       ],
       "AllowUnexpectedOutput": true,
       "DebugActionIndex": 0
@@ -6841,38 +6837,6 @@
       "ScannerIndex": 3
     },
     {
-      "Annotation": "C_Android_arm64 d8kz/wqgrolu7iov7.o",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++\" -march=armv8-a -D__ANDROID_API__=22 -DANDROID -DHAVE_INTTYPES_H -no-canonical-prefixes -funwind-tables -fstack-protector -fdiagnostics-format=msvc -fomit-frame-pointer -std=c++11 -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -g -Os -fPIC -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DTARGET_ARM64 -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/Source/il2cppOutput\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/pch\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/external/baselib/Include\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/os/ClassLibraryPAL/brotli/include\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/external/baselib/Platforms/Android/Include\" -o \"d8kz/wqgrolu7iov7.o\" -fcolor-diagnostics -fdiagnostics-absolute-paths -target aarch64-linux-android22 -fstrict-aliasing -fdiagnostics-format=msvc -c -x c++ \"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/Source/il2cppOutput/UnityEngine.UnityWebRequestModule.cpp\"",
-      "Inputs": [
-        "C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/Source/il2cppOutput/UnityEngine.UnityWebRequestModule.cpp",
-        "C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++",
-        "C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-ar"
-      ],
-      "Outputs": [
-        "d8kz/wqgrolu7iov7.o"
-      ],
-      "AllowUnexpectedOutput": true,
-      "Env": [],
-      "DebugActionIndex": 375,
-      "ScannerIndex": 3
-    },
-    {
-      "Annotation": "C_Android_arm64 d8kz/72vcnxh6bjhc.o",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++\" -march=armv8-a -D__ANDROID_API__=22 -DANDROID -DHAVE_INTTYPES_H -no-canonical-prefixes -funwind-tables -fstack-protector -fdiagnostics-format=msvc -fomit-frame-pointer -std=c++11 -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -g -Os -fPIC -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DTARGET_ARM64 -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/Source/il2cppOutput\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/pch\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/external/baselib/Include\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/os/ClassLibraryPAL/brotli/include\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/external/baselib/Platforms/Android/Include\" -o \"d8kz/72vcnxh6bjhc.o\" -fcolor-diagnostics -fdiagnostics-absolute-paths -target aarch64-linux-android22 -fstrict-aliasing -fdiagnostics-format=msvc -c -x c++ \"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/Source/il2cppOutput/UnityEngine.VideoModule.cpp\"",
-      "Inputs": [
-        "C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/Source/il2cppOutput/UnityEngine.VideoModule.cpp",
-        "C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++",
-        "C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-ar"
-      ],
-      "Outputs": [
-        "d8kz/72vcnxh6bjhc.o"
-      ],
-      "AllowUnexpectedOutput": true,
-      "Env": [],
-      "DebugActionIndex": 376,
-      "ScannerIndex": 3
-    },
-    {
       "Annotation": "C_Android_arm64 d8kz/4ki2gyxhar4x.o",
       "Action": "\"C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++\" -march=armv8-a -D__ANDROID_API__=22 -DANDROID -DHAVE_INTTYPES_H -no-canonical-prefixes -funwind-tables -fstack-protector -fdiagnostics-format=msvc -fomit-frame-pointer -std=c++11 -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -g -Os -fPIC -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DTARGET_ARM64 -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/Source/il2cppOutput\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/pch\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/external/baselib/Include\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/os/ClassLibraryPAL/brotli/include\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/external/baselib/Platforms/Android/Include\" -o \"d8kz/4ki2gyxhar4x.o\" -fcolor-diagnostics -fdiagnostics-absolute-paths -target aarch64-linux-android22 -fstrict-aliasing -fdiagnostics-format=msvc -c -x c++ \"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/Source/il2cppOutput/UnresolvedVirtualCallStubs.cpp\"",
       "Inputs": [
@@ -6885,7 +6849,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 377,
+      "DebugActionIndex": 375,
       "ScannerIndex": 3
     },
     {
@@ -6901,7 +6865,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 378,
+      "DebugActionIndex": 376,
       "ScannerIndex": 3
     },
     {
@@ -6917,7 +6881,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 379,
+      "DebugActionIndex": 377,
       "ScannerIndex": 3
     },
     {
@@ -6933,7 +6897,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 380,
+      "DebugActionIndex": 378,
       "ScannerIndex": 3
     },
     {
@@ -6949,7 +6913,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 381,
+      "DebugActionIndex": 379,
       "ScannerIndex": 3
     },
     {
@@ -6965,7 +6929,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 382,
+      "DebugActionIndex": 380,
       "ScannerIndex": 3
     },
     {
@@ -6981,7 +6945,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 383,
+      "DebugActionIndex": 381,
       "ScannerIndex": 3
     },
     {
@@ -6997,7 +6961,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 384,
+      "DebugActionIndex": 382,
       "ScannerIndex": 3
     },
     {
@@ -7013,7 +6977,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 385,
+      "DebugActionIndex": 383,
       "ScannerIndex": 3
     },
     {
@@ -7029,7 +6993,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 386,
+      "DebugActionIndex": 384,
       "ScannerIndex": 3
     },
     {
@@ -7045,7 +7009,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 387,
+      "DebugActionIndex": 385,
       "ScannerIndex": 3
     },
     {
@@ -7061,7 +7025,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 388,
+      "DebugActionIndex": 386,
       "ScannerIndex": 3
     },
     {
@@ -7077,7 +7041,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 389,
+      "DebugActionIndex": 387,
       "ScannerIndex": 3
     },
     {
@@ -7093,7 +7057,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 390,
+      "DebugActionIndex": 388,
       "ScannerIndex": 3
     },
     {
@@ -7109,7 +7073,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 391,
+      "DebugActionIndex": 389,
       "ScannerIndex": 3
     },
     {
@@ -7125,7 +7089,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 392,
+      "DebugActionIndex": 390,
       "ScannerIndex": 3
     },
     {
@@ -7141,7 +7105,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 393,
+      "DebugActionIndex": 391,
       "ScannerIndex": 3
     },
     {
@@ -7157,7 +7121,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 394,
+      "DebugActionIndex": 392,
       "ScannerIndex": 3
     },
     {
@@ -7173,7 +7137,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 395,
+      "DebugActionIndex": 393,
       "ScannerIndex": 3
     },
     {
@@ -7189,7 +7153,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 396,
+      "DebugActionIndex": 394,
       "ScannerIndex": 3
     },
     {
@@ -7205,7 +7169,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 397,
+      "DebugActionIndex": 395,
       "ScannerIndex": 3
     },
     {
@@ -7221,7 +7185,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 398,
+      "DebugActionIndex": 396,
       "ScannerIndex": 3
     },
     {
@@ -7237,7 +7201,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 399,
+      "DebugActionIndex": 397,
       "ScannerIndex": 3
     },
     {
@@ -7253,7 +7217,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 400,
+      "DebugActionIndex": 398,
       "ScannerIndex": 3
     },
     {
@@ -7269,7 +7233,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 401,
+      "DebugActionIndex": 399,
       "ScannerIndex": 3
     },
     {
@@ -7285,7 +7249,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 402,
+      "DebugActionIndex": 400,
       "ScannerIndex": 3
     },
     {
@@ -7301,7 +7265,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 403,
+      "DebugActionIndex": 401,
       "ScannerIndex": 3
     },
     {
@@ -7317,7 +7281,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 404,
+      "DebugActionIndex": 402,
       "ScannerIndex": 3
     },
     {
@@ -7333,7 +7297,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 405,
+      "DebugActionIndex": 403,
       "ScannerIndex": 3
     },
     {
@@ -7349,7 +7313,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 406,
+      "DebugActionIndex": 404,
       "ScannerIndex": 3
     },
     {
@@ -7365,7 +7329,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 407,
+      "DebugActionIndex": 405,
       "ScannerIndex": 3
     },
     {
@@ -7381,7 +7345,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 408,
+      "DebugActionIndex": 406,
       "ScannerIndex": 3
     },
     {
@@ -7397,7 +7361,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 409,
+      "DebugActionIndex": 407,
       "ScannerIndex": 3
     },
     {
@@ -7413,7 +7377,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 410,
+      "DebugActionIndex": 408,
       "ScannerIndex": 3
     },
     {
@@ -7429,7 +7393,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 411,
+      "DebugActionIndex": 409,
       "ScannerIndex": 3
     },
     {
@@ -7445,7 +7409,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 412,
+      "DebugActionIndex": 410,
       "ScannerIndex": 3
     },
     {
@@ -7461,7 +7425,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 413,
+      "DebugActionIndex": 411,
       "ScannerIndex": 3
     },
     {
@@ -7477,7 +7441,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 414,
+      "DebugActionIndex": 412,
       "ScannerIndex": 3
     },
     {
@@ -7493,7 +7457,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 415,
+      "DebugActionIndex": 413,
       "ScannerIndex": 3
     },
     {
@@ -7509,7 +7473,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 416,
+      "DebugActionIndex": 414,
       "ScannerIndex": 3
     },
     {
@@ -7525,7 +7489,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 417,
+      "DebugActionIndex": 415,
       "ScannerIndex": 3
     },
     {
@@ -7541,7 +7505,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 418,
+      "DebugActionIndex": 416,
       "ScannerIndex": 3
     },
     {
@@ -7557,7 +7521,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 419,
+      "DebugActionIndex": 417,
       "ScannerIndex": 3
     },
     {
@@ -7573,7 +7537,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 420,
+      "DebugActionIndex": 418,
       "ScannerIndex": 3
     },
     {
@@ -7589,7 +7553,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 421,
+      "DebugActionIndex": 419,
       "ScannerIndex": 3
     },
     {
@@ -7605,7 +7569,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 422,
+      "DebugActionIndex": 420,
       "ScannerIndex": 3
     },
     {
@@ -7621,7 +7585,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 423,
+      "DebugActionIndex": 421,
       "ScannerIndex": 3
     },
     {
@@ -7637,7 +7601,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 424,
+      "DebugActionIndex": 422,
       "ScannerIndex": 3
     },
     {
@@ -7653,7 +7617,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 425,
+      "DebugActionIndex": 423,
       "ScannerIndex": 3
     },
     {
@@ -7669,7 +7633,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 426,
+      "DebugActionIndex": 424,
       "ScannerIndex": 3
     },
     {
@@ -7685,7 +7649,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 427,
+      "DebugActionIndex": 425,
       "ScannerIndex": 3
     },
     {
@@ -7701,7 +7665,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 428,
+      "DebugActionIndex": 426,
       "ScannerIndex": 3
     },
     {
@@ -7717,7 +7681,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 429,
+      "DebugActionIndex": 427,
       "ScannerIndex": 3
     },
     {
@@ -7733,7 +7697,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 430,
+      "DebugActionIndex": 428,
       "ScannerIndex": 3
     },
     {
@@ -7749,39 +7713,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 431,
-      "ScannerIndex": 3
-    },
-    {
-      "Annotation": "C_Android_arm64 d8kz/c07754otkzkh.o",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++\" -march=armv8-a -D__ANDROID_API__=22 -DANDROID -DHAVE_INTTYPES_H -no-canonical-prefixes -funwind-tables -fstack-protector -fdiagnostics-format=msvc -fomit-frame-pointer -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -g -Os -fPIC -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DTARGET_ARM64 -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/Source/il2cppOutput\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/pch\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/external/baselib/Include\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/os/ClassLibraryPAL/brotli/include\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/external/baselib/Platforms/Android/Include\" -o \"d8kz/c07754otkzkh.o\" -fcolor-diagnostics -fdiagnostics-absolute-paths -target aarch64-linux-android22 -fstrict-aliasing -fdiagnostics-format=msvc -c -x c \"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/Source/il2cppOutput/UnityEngine.UnityWebRequestModule_CodeGen.c\"",
-      "Inputs": [
-        "C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/Source/il2cppOutput/UnityEngine.UnityWebRequestModule_CodeGen.c",
-        "C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++",
-        "C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-ar"
-      ],
-      "Outputs": [
-        "d8kz/c07754otkzkh.o"
-      ],
-      "AllowUnexpectedOutput": true,
-      "Env": [],
-      "DebugActionIndex": 432,
-      "ScannerIndex": 3
-    },
-    {
-      "Annotation": "C_Android_arm64 d8kz/jxugtjb7xjox.o",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++\" -march=armv8-a -D__ANDROID_API__=22 -DANDROID -DHAVE_INTTYPES_H -no-canonical-prefixes -funwind-tables -fstack-protector -fdiagnostics-format=msvc -fomit-frame-pointer -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -g -Os -fPIC -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DTARGET_ARM64 -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/Source/il2cppOutput\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/pch\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/external/baselib/Include\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/libil2cpp/os/ClassLibraryPAL/brotli/include\" -I\"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/IL2CPP/external/baselib/Platforms/Android/Include\" -o \"d8kz/jxugtjb7xjox.o\" -fcolor-diagnostics -fdiagnostics-absolute-paths -target aarch64-linux-android22 -fstrict-aliasing -fdiagnostics-format=msvc -c -x c \"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/Source/il2cppOutput/UnityEngine.VideoModule_CodeGen.c\"",
-      "Inputs": [
-        "C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/Il2CppOutputProject/Source/il2cppOutput/UnityEngine.VideoModule_CodeGen.c",
-        "C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++",
-        "C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-ar"
-      ],
-      "Outputs": [
-        "d8kz/jxugtjb7xjox.o"
-      ],
-      "AllowUnexpectedOutput": true,
-      "Env": [],
-      "DebugActionIndex": 433,
+      "DebugActionIndex": 429,
       "ScannerIndex": 3
     },
     {
@@ -7797,7 +7729,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 434,
+      "DebugActionIndex": 430,
       "ScannerIndex": 3
     },
     {
@@ -7813,7 +7745,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 435,
+      "DebugActionIndex": 431,
       "ScannerIndex": 3
     },
     {
@@ -7829,7 +7761,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 436,
+      "DebugActionIndex": 432,
       "ScannerIndex": 3
     },
     {
@@ -7845,7 +7777,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 437,
+      "DebugActionIndex": 433,
       "ScannerIndex": 3
     },
     {
@@ -7861,19 +7793,19 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 438,
+      "DebugActionIndex": 434,
       "ScannerIndex": 3
     },
     {
       "Annotation": "WriteResponseFile C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/build/il2cpp_arm64-v8a_Release/il2cpp_cache/buildstate/artifacts/rsp/1729919944154292146.rsp",
       "ActionType": "WriteTextFile",
-      "WriteTextFilePayload": "-march=armv8-a -D__ANDROID_API__=22 -DANDROID -DHAVE_INTTYPES_H -no-canonical-prefixes -funwind-tables -fstack-protector -fdiagnostics-format=msvc -fomit-frame-pointer -std=c++11 -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -g -Os -fPIC -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -o \"d8kz/libil2cpp.so\" -fcolor-diagnostics -fdiagnostics-absolute-paths -target aarch64-linux-android22 -fstrict-aliasing -fdiagnostics-format=msvc \"d8kz/pu1e9ksyjb1d.o\" \"d8kz/uubygi8kleqv.o\" \"d8kz/po7vuauta4s1.o\" \"d8kz/xtgptzhktsn1.o\" \"d8kz/y105dfyixu4g.o\" \"d8kz/a4akak8qds4k.o\" \"d8kz/bcv0uzophul0.o\" \"d8kz/wryoa92mkixj.o\" \"d8kz/h71cqihkn682.o\" \"d8kz/ifmtayxir8pi.o\" \"d8kz/3uphq7bguw11.o\" \"d8kz/oat55gqdxkdl.o\" \"d8kz/pidmqw6b1mu0.o\" \"d8kz/zlkz3rgeskjs.o\" \"d8kz/o060rjqoo2fs.o\" \"d8kz/y1941b1ms78t.o\" \"d8kz/jhdthlfkvvkd.o\" \"d8kz/4wghxuthyjww.o\" \"d8kz/540xhaag2ldc.o\" \"d8kz/qk4lxjod59ov.o\" \"d8kz/b079ct2a8x0e.o\" \"d8kz/c8rqx8i9b0hu.o\" \"d8kz/xnvedix6eotd.o\" \"d8kz/yvfvxxd5iqat.o\" \"d8kz/jbjjd7r2lemc.o\" \"d8kz/9fap7s4lrqrb.o\" \"d8kz/539nazq3uc8o.o\" \"d8kz/qjdcq840x0j8.o\" \"d8kz/rrxsaolz120n.o\" \"d8kz/c70gqxzw4qc7.o\" \"d8kz/xm4456du7eoq.o\" \"d8kz/yuolqmusbh55.o\" \"d8kz/jas95v8pe5gp.o\" \"d8kz/kicqqbpoi7x4.o\" \"d8kz/5xfe6k3llv9n.o\" \"d8kz/qdj2luhjojl7.o\" \"d8kz/aou5r8kkvs8q.o\" \"d8kz/c696imgkxh7j.o\" \"d8kz/deun31wi1joz.o\" \"d8kz/ytxbjbbg47zi.o\" \"d8kz/j90zykpd7vb2.o\" \"d8kz/khlgj05bbysh.o\" \"d8kz/5wo4y9j9dm40.o\" \"d8kz/qcssejy6gagk.o\" \"d8kz/rkc9yye5kcxz.o\" \"d8kz/c0fxe8s2n08i.o\" \"d8kz/d8zdzn90r2py.o\" \"d8kz/v3xt7hzhygka.o\" \"d8kz/j89pr950zm6e.o\" \"d8kz/kgu6bpmz3onu.o\" \"d8kz/5vxury0w6czd.o\" \"d8kz/63hbcehvafgt.o\" \"d8kz/rjlzrnvsd3rc.o\" \"d8kz/czon7w9pgr3v.o\" \"d8kz/d783rcqoktkb.o\" \"d8kz/ymcs7l4lnhwu.o\" \"d8kz/gj1hnrdf14vt.o\" \"d8kz/hrly76td56c9.o\" \"d8kz/26omng8a8uos.o\" \"d8kz/nmsa3pm8aj0b.o\" \"d8kz/oucrn526elhr.o\" \"d8kz/wyowudqautal.o\" \"d8kz/rzyfr1qbzs7e.o\" \"d8kz/s7iwbh792uou.o\" \"d8kz/6hnlegzkhwhp.o\" \"d8kz/5etvrvwv8a5u.o\" \"d8kz/xgjnpo2vkwjg.o\" \"d8kz/1bwuk7ung3t4.o\" \"d8kz/tq6uic02aniw.o\" \"d8kz/28n5gyi7zdg4.o\" \"d8kz/z0tyt8hbgv3u.o\" \"d8kz/8l6rvw3ellou.o\" \"d8kz/if1fmdhkhkmr.o\" \"d8kz/95ck56412cts.o\" \"d8kz/sxn58zcmzf6j.o\" \"d8kz/jzafze7r13th.o\" \"d8kz/7ty50s4f60pn.o\" \"d8kz/81iml8kea362.o\" \"d8kz/thma1hzbdrim.o\" \"d8kz/expygrd9ffu5.o\" \"d8kz/f59e16t7jhbl.o\" \"d8kz/0kd3gg84m5m4.o\" \"d8kz/l0grwpm2ptyn.o\" \"d8kz/m807g520tvf3.o\" \"d8kz/7n4vwehywjrm.o\" \"d8kz/8vochuxw0l81.o\" \"d8kz/k7uvjunq55ax.o\" \"d8kz/ewyo9fuw85oi.o\" \"d8kz/f4i5tvavc85x.o\" \"d8kz/0jmt94osfwhh.o\" \"d8kz/5myjz31n8tmg.o\" \"d8kz/6ui0jjimcw3v.o\" \"d8kz/ramozswjfkff.o\" \"d8kz/cqpcf2ahi8qy.o\" \"d8kz/dy9szhrfma8d.o\" \"d8kz/yddhfr5cpyjx.o\" \"d8kz/jtg5u0jasmvg.o\" \"d8kz/aie47enbrxbg.o\" \"d8kz/5mg0qercpqau.o\" \"d8kz/ynu3ystc46h1.o\" \"d8kz/j3xre2796utk.o\" \"d8kz/4i1fubm79i53.o\" \"d8kz/agbk3vheqyp4.o\" \"d8kz/s7darjt9baio.o\" \"d8kz/il5168df0dk2.o\" \"d8kz/fp49lp9qi7c2.o\" \"d8kz/ssgvbhahth9w.o\" \"d8kz/d8jjrqoew5kg.o\" \"d8kz/ynn76z2bztwz.o\" \"d8kz/zv7nrfja3vdf.o\" \"d8kz/hxgq25hjq88t.o\" \"d8kz/2ckeifwgtwkd.o\" \"d8kz/3k4u2ucfxy1s.o\" \"d8kz/o07ii4qc0mdc.o\" \"d8kz/p8rz2j7a4our.o\" \"d8kz/aovnitl86c6a.o\" \"d8kz/v3yby2z590hu.o\" \"d8kz/wbjsiig4d3y9.o\" \"d8kz/hrmgyru1grat.o\" \"d8kz/x7wb6wr38kt0.o\" \"d8kz/23jfxjqvbzpl.o\" \"d8kz/3b4vhz6tf160.o\" \"d8kz/or7jx8kripik.o\" \"d8kz/96a8cizoldu3.o\" \"d8kz/afvoxxfnpfbj.o\" \"d8kz/vuycd7tks3m2.o\" \"d8kz/8iizicun8wgh.o\" \"d8kz/ck4t8eqnj9qp.o\" \"d8kz/a5oyp8m15k7r.o\" \"d8kz/55a3vrblbott.o\" \"d8kz/2rorcmjxy1x4.o\" \"d8kz/n7rfsvxu1p9n.o\" \"d8kz/yy8og2fl98bo.o\" \"d8kz/08nag5m00kwa.o\" \"d8kz/r5xb3y8pmm2m.o\" \"d8kz/4mjlrw7biw6k.o\" \"d8kz/b04adqlw476z.o\" \"d8kz/1vj67emn1vpv.o\" \"d8kz/vc7rtch9l0vg.o\" \"d8kz/9zsekrfjz8iy.o\" \"d8kz/s2ckm0vh0qp2.o\" \"d8kz/vfdhv2ofse42.o\" \"d8kz/5kj5zeqke7ba.o\" \"d8kz/6v90unsxnhzt.o\" \"d8kz/73thf38vrjg9.o\" \"d8kz/sjx5ucntu7rs.o\" \"d8kz/38swezqddogn.o\" \"d8kz/qvohrurkxu5d.o\" \"d8kz/uelcwesg6fup.o\" \"d8kz/pkehwb6bapkr.o\" \"d8kz/a0h5blk9cdwa.o\" \"d8kz/vfltruy6f17t.o\" \"d8kz/dv6sl2kklgpk.o\" \"d8kz/qj36002vmfly.o\" \"d8kz/wmyc748k69by.o\" \"d8kz/h210meni9xnh.o\" \"d8kz/iamh7t3gd04w.o\" \"d8kz/bz6ugahtp3wh.o\" \"d8kz/c7qb1pxrt5dx.o\" \"d8kz/xmuzgzbpwtpg.o\" \"d8kz/yueg1esn0v6v.o\" \"d8kz/jai4go6k3jif.o\" \"d8kz/4plswxki67ty.o\" \"d8kz/5x58gd1gaabe.o\" \"d8kz/qd9wwmfedymx.o\" \"d8kz/oa26an2yjo5f.o\" \"d8kz/mnn9fm4i1glo.o\" \"d8kz/wqgrolu7iov7.o\" \"d8kz/72vcnxh6bjhc.o\" \"d8kz/4ki2gyxhar4x.o\" \"d8kz/2bh568fedrnd.o\" \"d8kz/lmkxrdl8cbu3.o\" \"d8kz/lvgcb40xva4q.o\" \"d8kz/61nl7mz5fz5m.o\" \"d8kz/7971r2f4j1m2.o\" \"d8kz/spbq7bu1mpyl.o\" \"d8kz/d5eenl8ypda5.o\" \"d8kz/edzu70oxtfrk.o\" \"d8kz/zs2ina3uw323.o\" \"d8kz/k8562jhszren.o\" \"d8kz/lgqnnzxq3tv2.o\" \"d8kz/5yrhnywe3i77.o\" \"d8kz/yr387sn5f9rk.o\" \"d8kz/ttw9ttg61skf.o\" \"d8kz/y4l9kbk0rdoc.o\" \"d8kz/9msuq7d9ox8x.o\" \"d8kz/01ciswiv6uqm.o\" \"d8kz/kirgvb2c09p2.o\" \"d8kz/u9h1vfwjktnt.o\" \"d8kz/zpnytwkmb68m.o\" \"d8kz/011gtdnf0w54.o\" \"d8kz/p7joa3nxh8ya.o\" \"d8kz/3872frb7h0rv.o\" \"d8kz/tdxt5mhl4mnj.o\" \"d8kz/fz6l14vsfwbm.o\" \"d8kz/h58a6vwdww19.o\" \"d8kz/27xloin8f4jz.o\" \"d8kz/o75jr32vhhgl.o\" \"d8kz/yppsgvew71fr.o\" \"d8kz/de214w7f5mf2.o\" \"d8kz/882vqsk0tl7a.o\" \"d8kz/ymi79cxl6w93.o\" \"d8kz/v63cvs1ilwlk.o\" \"d8kz/yfos5gafuby9.o\" \"d8kz/hwwlk30e6w90.o\" \"d8kz/g6q6uh8soh4l.o\" \"d8kz/c5di1xpzx9l0.o\" \"d8kz/2bey1ncuu00c.o\" \"d8kz/dtho22o6zfe6.o\" \"d8kz/web82hirp48i.o\" \"d8kz/f54wg20rld31.o\" \"d8kz/nerelj8stjrj.o\" \"d8kz/l034qhqifcbl.o\" \"d8kz/bypucjgbsx4a.o\" \"d8kz/1aj8tn00t87b.o\" \"d8kz/4wthz5qdwmjt.o\" \"d8kz/zfbyd7haswej.o\" \"d8kz/tswz3wtfvlj3.o\" \"d8kz/z6frauf1h260.o\" \"d8kz/yy1h5w1258vl.o\" \"d8kz/d4gnofm26un0.o\" \"d8kz/kort5c933lwz.o\" \"d8kz/ihlsdbznb1nm.o\" \"d8kz/erpd2ovjr4m8.o\" \"d8kz/c07754otkzkh.o\" \"d8kz/jxugtjb7xjox.o\" \"d8kz/qdg29w9njudk.o\" \"d8kz/2gy11tfwc6lg.o\" \"d8kz/pfped6ra07tr.o\" \"d8kz/hp4nv0dsbybd.o\" \"d8kz/63n0hiqe7jiy.o\" \"87li/06mdz4cwvc9w.o\" \"87li/0liahdt5qrq2.o\" \"87li/0o2x8k4a98h0.o\" \"87li/0om8s5c9teqz.o\" \"87li/20lapr55yfvf.o\" \"87li/21t0ezj08woq.o\" \"87li/2dpufexo3ft0.o\" \"87li/2tgtyceo2fee.o\" \"87li/2ug451px1350.o\" \"87li/31occr96uytv.o\" \"87li/37cgat2e5oyu.o\" \"87li/3h9o7has4gc6.o\" \"87li/3k2cyr6xqj1t.o\" \"87li/3sdk26egmeua.o\" \"87li/3tdbodgrdy7a.o\" \"87li/46pjmzp3ah9m.o\" \"87li/49lzigcpgdzf.o\" \"87li/537121mnrz3c.o\" \"87li/58o52tge6xu7.o\" \"87li/5jwsqz39uvba.o\" \"87li/5woewzp6d3i4.o\" \"87li/6bbtkylbfgj3.o\" \"87li/6qnyb10i14ep.o\" \"87li/6rwqqqu6nzm9.o\" \"87li/6tbwqjvmqkc6.o\" \"87li/6x476r0jw0o5.o\" \"87li/7025dm3jy7vv.o\" \"87li/7r1tnwwvlf0i.o\" \"87li/8j1oitsi1q0o.o\" \"87li/92ml5hx1catq.o\" \"87li/96cwwuyszmw0.o\" \"87li/9pd04nu16oqg.o\" \"87li/9um2a6ean8bc.o\" \"87li/a3kyequnt6c1.o\" \"87li/a7j5nv0gabg3.o\" \"87li/ahpaz63ykf73.o\" \"87li/b02v1jnkzr0f.o\" \"87li/b1ks6itpvqmy.o\" \"87li/b1pfr6y4qox7.o\" \"87li/b3b7j1qmx6gj.o\" \"87li/bm4oboej1ydj.o\" \"87li/bo8of9nrw0e8.o\" \"87li/c56p0yw2sg0y.o\" \"87li/c88w21i9m1ih.o\" \"87li/cbjzdqa2hykv.o\" \"87li/cfpvaoli55d7.o\" \"87li/ciu90c3lyavv.o\" \"87li/d032n4a0atf3.o\" \"87li/d8lmhqdtdqwa.o\" \"87li/dfserjkl6d4f.o\" \"87li/dn9yfx8s9pc0.o\" \"87li/dqunp3yk6qwx.o\" \"87li/ecruvbz2gjnn.o\" \"87li/ek350kni0o4w.o\" \"87li/eu040y51fzff.o\" \"87li/fkrmgbjs4tba.o\" \"87li/flvb8i501oqz.o\" \"87li/fmpfqiemw67h.o\" \"87li/futhfy85de1p.o\" \"87li/fvuza0r1dc8b.o\" \"87li/fwsq8nyps2nf.o\" \"87li/g6jhh56w55su.o\" \"87li/grund143f4hu.o\" \"87li/h22gkpbbxpuj.o\" \"87li/hiadtwywev9v.o\" \"87li/hme34w286g4k.o\" \"87li/ht9wmpu3jmg2.o\" \"87li/hy4scy9ihdsg.o\" \"87li/hyyhb4oypq0n.o\" \"87li/i3km5t32be97.o\" \"87li/id4zg6699thk.o\" \"87li/ji9whyl0e2if.o\" \"87li/jo64ptkkumc9.o\" \"87li/juk1k2vi0erj.o\" \"87li/jv7jg6fjq88y.o\" \"87li/kh9zccn2l6gi.o\" \"87li/kiiab7i09nam.o\" \"87li/kiwrqe3gkvdb.o\" \"87li/klqncm0gcou3.o\" \"87li/kxuxi4vxupko.o\" \"87li/lpg5lsxt09er.o\" \"87li/lweiie5d69xe.o\" \"87li/m416wqpudhs4.o\" \"87li/m44u8kflj8f1.o\" \"87li/mpzva7t97gy3.o\" \"87li/myestn748x1e.o\" \"87li/n0jiekl6hmxc.o\" \"87li/ng5fkcu1q50i.o\" \"87li/npboqh0lff4j.o\" \"87li/nvfh0s739l02.o\" \"87li/nw0v5ya4729x.o\" \"87li/nx6n4vdps81f.o\" \"87li/o8qnn0vxwpvl.o\" \"87li/onr615cuh6qo.o\" \"87li/oy3sm324oika.o\" \"87li/p89dcfsd4wey.o\" \"87li/p8txnupzvj6q.o\" \"87li/pncpyyny9w8y.o\" \"87li/pnfdatdpfowv.o\" \"87li/q43h3667tlnx.o\" \"87li/qgh653btooia.o\" \"87li/ra56yfy4ibgt.o\" \"87li/rbqjtt0j998b.o\" \"87li/rcoh1juqftbu.o\" \"87li/rylxl44jmxfz.o\" \"87li/s7jy896li03j.o\" \"87li/s9tehzsxojwq.o\" \"87li/si4628yxwgir.o\" \"87li/tzro7baxk4y4.o\" \"87li/ukumrtr1ll8s.o\" \"87li/v1ep4gx1swyl.o\" \"87li/v40xxmtqo0ei.o\" \"87li/w1tk1wo6wlog.o\" \"87li/w4bhjvzk9jhk.o\" \"87li/wcr109pq8hi2.o\" \"87li/x5rf7c66ct15.o\" \"87li/x6wxvcr496ui.o\" \"87li/xncvxweszws2.o\" \"87li/xyi7gaao7a8g.o\" \"87li/y8bcl8lxtk7q.o\" \"87li/ykp75ov5ocfg.o\" \"87li/zhbsnj712zel.o\" \"dqdh/rf4u5passich.o\" \"dqdh/wy7ntn2ieea1.o\" \"zz99/093xpcc68r1v.o\" \"zz99/36h26ph0sg1q.o\" \"zz99/6izvvshfrpvv.o\" \"zz99/9c1dyh0tntl4.o\" \"zz99/dc6q4gpzqdim.o\" \"zz99/ilgdr1vvjt8p.o\" \"zz99/lbv98gz6v0ho.o\" \"zz99/n6rbizelcw0l.o\" \"zz99/prqrsyr1axol.o\" \"zz99/se1z6ne9qp9n.o\" \"zz99/vou4hbyoecef.o\" \"zz99/wrcnoxhneic8.o\" \"zz99/y1uacu576c05.o\" \"zz99/zhl5dxrg1628.o\" -Wl,--wrap,sigaction -Wl,--wrap,sigaction -fuse-ld=bfd.exe -Wl,--gc-sections -Wl,--fatal-warnings -Wl,-soname=libil2cpp.so -Wl,--no-undefined -Wl,--build-id -Wl,-z,noexecstack -shared -rdynamic -static-libstdc++  -Wl,-z,relro \"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/jniStaticLibs/arm64-v8a/baselib.a\" -l\"log\"",
+      "WriteTextFilePayload": "-march=armv8-a -D__ANDROID_API__=22 -DANDROID -DHAVE_INTTYPES_H -no-canonical-prefixes -funwind-tables -fstack-protector -fdiagnostics-format=msvc -fomit-frame-pointer -std=c++11 -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -g -Os -fPIC -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -o \"d8kz/libil2cpp.so\" -fcolor-diagnostics -fdiagnostics-absolute-paths -target aarch64-linux-android22 -fstrict-aliasing -fdiagnostics-format=msvc \"d8kz/pu1e9ksyjb1d.o\" \"d8kz/uubygi8kleqv.o\" \"d8kz/po7vuauta4s1.o\" \"d8kz/xtgptzhktsn1.o\" \"d8kz/y105dfyixu4g.o\" \"d8kz/a4akak8qds4k.o\" \"d8kz/bcv0uzophul0.o\" \"d8kz/wryoa92mkixj.o\" \"d8kz/h71cqihkn682.o\" \"d8kz/ifmtayxir8pi.o\" \"d8kz/3uphq7bguw11.o\" \"d8kz/oat55gqdxkdl.o\" \"d8kz/pidmqw6b1mu0.o\" \"d8kz/zlkz3rgeskjs.o\" \"d8kz/o060rjqoo2fs.o\" \"d8kz/y1941b1ms78t.o\" \"d8kz/jhdthlfkvvkd.o\" \"d8kz/4wghxuthyjww.o\" \"d8kz/540xhaag2ldc.o\" \"d8kz/qk4lxjod59ov.o\" \"d8kz/b079ct2a8x0e.o\" \"d8kz/c8rqx8i9b0hu.o\" \"d8kz/xnvedix6eotd.o\" \"d8kz/yvfvxxd5iqat.o\" \"d8kz/jbjjd7r2lemc.o\" \"d8kz/9fap7s4lrqrb.o\" \"d8kz/539nazq3uc8o.o\" \"d8kz/qjdcq840x0j8.o\" \"d8kz/rrxsaolz120n.o\" \"d8kz/c70gqxzw4qc7.o\" \"d8kz/xm4456du7eoq.o\" \"d8kz/yuolqmusbh55.o\" \"d8kz/jas95v8pe5gp.o\" \"d8kz/kicqqbpoi7x4.o\" \"d8kz/5xfe6k3llv9n.o\" \"d8kz/qdj2luhjojl7.o\" \"d8kz/aou5r8kkvs8q.o\" \"d8kz/c696imgkxh7j.o\" \"d8kz/deun31wi1joz.o\" \"d8kz/ytxbjbbg47zi.o\" \"d8kz/j90zykpd7vb2.o\" \"d8kz/khlgj05bbysh.o\" \"d8kz/5wo4y9j9dm40.o\" \"d8kz/qcssejy6gagk.o\" \"d8kz/rkc9yye5kcxz.o\" \"d8kz/c0fxe8s2n08i.o\" \"d8kz/d8zdzn90r2py.o\" \"d8kz/v3xt7hzhygka.o\" \"d8kz/j89pr950zm6e.o\" \"d8kz/kgu6bpmz3onu.o\" \"d8kz/5vxury0w6czd.o\" \"d8kz/63hbcehvafgt.o\" \"d8kz/rjlzrnvsd3rc.o\" \"d8kz/czon7w9pgr3v.o\" \"d8kz/d783rcqoktkb.o\" \"d8kz/ymcs7l4lnhwu.o\" \"d8kz/gj1hnrdf14vt.o\" \"d8kz/hrly76td56c9.o\" \"d8kz/26omng8a8uos.o\" \"d8kz/nmsa3pm8aj0b.o\" \"d8kz/oucrn526elhr.o\" \"d8kz/wyowudqautal.o\" \"d8kz/rzyfr1qbzs7e.o\" \"d8kz/s7iwbh792uou.o\" \"d8kz/6hnlegzkhwhp.o\" \"d8kz/5etvrvwv8a5u.o\" \"d8kz/xgjnpo2vkwjg.o\" \"d8kz/1bwuk7ung3t4.o\" \"d8kz/tq6uic02aniw.o\" \"d8kz/28n5gyi7zdg4.o\" \"d8kz/z0tyt8hbgv3u.o\" \"d8kz/8l6rvw3ellou.o\" \"d8kz/if1fmdhkhkmr.o\" \"d8kz/95ck56412cts.o\" \"d8kz/sxn58zcmzf6j.o\" \"d8kz/jzafze7r13th.o\" \"d8kz/7ty50s4f60pn.o\" \"d8kz/81iml8kea362.o\" \"d8kz/thma1hzbdrim.o\" \"d8kz/expygrd9ffu5.o\" \"d8kz/f59e16t7jhbl.o\" \"d8kz/0kd3gg84m5m4.o\" \"d8kz/l0grwpm2ptyn.o\" \"d8kz/m807g520tvf3.o\" \"d8kz/7n4vwehywjrm.o\" \"d8kz/8vochuxw0l81.o\" \"d8kz/k7uvjunq55ax.o\" \"d8kz/ewyo9fuw85oi.o\" \"d8kz/f4i5tvavc85x.o\" \"d8kz/0jmt94osfwhh.o\" \"d8kz/5myjz31n8tmg.o\" \"d8kz/6ui0jjimcw3v.o\" \"d8kz/ramozswjfkff.o\" \"d8kz/cqpcf2ahi8qy.o\" \"d8kz/dy9szhrfma8d.o\" \"d8kz/yddhfr5cpyjx.o\" \"d8kz/jtg5u0jasmvg.o\" \"d8kz/aie47enbrxbg.o\" \"d8kz/5mg0qercpqau.o\" \"d8kz/ynu3ystc46h1.o\" \"d8kz/j3xre2796utk.o\" \"d8kz/4i1fubm79i53.o\" \"d8kz/agbk3vheqyp4.o\" \"d8kz/s7darjt9baio.o\" \"d8kz/il5168df0dk2.o\" \"d8kz/fp49lp9qi7c2.o\" \"d8kz/ssgvbhahth9w.o\" \"d8kz/d8jjrqoew5kg.o\" \"d8kz/ynn76z2bztwz.o\" \"d8kz/zv7nrfja3vdf.o\" \"d8kz/hxgq25hjq88t.o\" \"d8kz/2ckeifwgtwkd.o\" \"d8kz/3k4u2ucfxy1s.o\" \"d8kz/o07ii4qc0mdc.o\" \"d8kz/p8rz2j7a4our.o\" \"d8kz/aovnitl86c6a.o\" \"d8kz/v3yby2z590hu.o\" \"d8kz/wbjsiig4d3y9.o\" \"d8kz/hrmgyru1grat.o\" \"d8kz/x7wb6wr38kt0.o\" \"d8kz/23jfxjqvbzpl.o\" \"d8kz/3b4vhz6tf160.o\" \"d8kz/or7jx8kripik.o\" \"d8kz/96a8cizoldu3.o\" \"d8kz/afvoxxfnpfbj.o\" \"d8kz/vuycd7tks3m2.o\" \"d8kz/8iizicun8wgh.o\" \"d8kz/ck4t8eqnj9qp.o\" \"d8kz/a5oyp8m15k7r.o\" \"d8kz/55a3vrblbott.o\" \"d8kz/2rorcmjxy1x4.o\" \"d8kz/n7rfsvxu1p9n.o\" \"d8kz/yy8og2fl98bo.o\" \"d8kz/08nag5m00kwa.o\" \"d8kz/r5xb3y8pmm2m.o\" \"d8kz/4mjlrw7biw6k.o\" \"d8kz/b04adqlw476z.o\" \"d8kz/1vj67emn1vpv.o\" \"d8kz/vc7rtch9l0vg.o\" \"d8kz/9zsekrfjz8iy.o\" \"d8kz/s2ckm0vh0qp2.o\" \"d8kz/vfdhv2ofse42.o\" \"d8kz/5kj5zeqke7ba.o\" \"d8kz/6v90unsxnhzt.o\" \"d8kz/73thf38vrjg9.o\" \"d8kz/sjx5ucntu7rs.o\" \"d8kz/38swezqddogn.o\" \"d8kz/qvohrurkxu5d.o\" \"d8kz/uelcwesg6fup.o\" \"d8kz/pkehwb6bapkr.o\" \"d8kz/a0h5blk9cdwa.o\" \"d8kz/vfltruy6f17t.o\" \"d8kz/dv6sl2kklgpk.o\" \"d8kz/qj36002vmfly.o\" \"d8kz/wmyc748k69by.o\" \"d8kz/h210meni9xnh.o\" \"d8kz/iamh7t3gd04w.o\" \"d8kz/bz6ugahtp3wh.o\" \"d8kz/c7qb1pxrt5dx.o\" \"d8kz/xmuzgzbpwtpg.o\" \"d8kz/yueg1esn0v6v.o\" \"d8kz/jai4go6k3jif.o\" \"d8kz/4plswxki67ty.o\" \"d8kz/5x58gd1gaabe.o\" \"d8kz/qd9wwmfedymx.o\" \"d8kz/oa26an2yjo5f.o\" \"d8kz/mnn9fm4i1glo.o\" \"d8kz/4ki2gyxhar4x.o\" \"d8kz/2bh568fedrnd.o\" \"d8kz/lmkxrdl8cbu3.o\" \"d8kz/lvgcb40xva4q.o\" \"d8kz/61nl7mz5fz5m.o\" \"d8kz/7971r2f4j1m2.o\" \"d8kz/spbq7bu1mpyl.o\" \"d8kz/d5eenl8ypda5.o\" \"d8kz/edzu70oxtfrk.o\" \"d8kz/zs2ina3uw323.o\" \"d8kz/k8562jhszren.o\" \"d8kz/lgqnnzxq3tv2.o\" \"d8kz/5yrhnywe3i77.o\" \"d8kz/yr387sn5f9rk.o\" \"d8kz/ttw9ttg61skf.o\" \"d8kz/y4l9kbk0rdoc.o\" \"d8kz/9msuq7d9ox8x.o\" \"d8kz/01ciswiv6uqm.o\" \"d8kz/kirgvb2c09p2.o\" \"d8kz/u9h1vfwjktnt.o\" \"d8kz/zpnytwkmb68m.o\" \"d8kz/011gtdnf0w54.o\" \"d8kz/p7joa3nxh8ya.o\" \"d8kz/3872frb7h0rv.o\" \"d8kz/tdxt5mhl4mnj.o\" \"d8kz/fz6l14vsfwbm.o\" \"d8kz/h58a6vwdww19.o\" \"d8kz/27xloin8f4jz.o\" \"d8kz/o75jr32vhhgl.o\" \"d8kz/yppsgvew71fr.o\" \"d8kz/de214w7f5mf2.o\" \"d8kz/882vqsk0tl7a.o\" \"d8kz/ymi79cxl6w93.o\" \"d8kz/v63cvs1ilwlk.o\" \"d8kz/yfos5gafuby9.o\" \"d8kz/hwwlk30e6w90.o\" \"d8kz/g6q6uh8soh4l.o\" \"d8kz/c5di1xpzx9l0.o\" \"d8kz/2bey1ncuu00c.o\" \"d8kz/dtho22o6zfe6.o\" \"d8kz/web82hirp48i.o\" \"d8kz/f54wg20rld31.o\" \"d8kz/nerelj8stjrj.o\" \"d8kz/l034qhqifcbl.o\" \"d8kz/bypucjgbsx4a.o\" \"d8kz/1aj8tn00t87b.o\" \"d8kz/4wthz5qdwmjt.o\" \"d8kz/zfbyd7haswej.o\" \"d8kz/tswz3wtfvlj3.o\" \"d8kz/z6frauf1h260.o\" \"d8kz/yy1h5w1258vl.o\" \"d8kz/d4gnofm26un0.o\" \"d8kz/kort5c933lwz.o\" \"d8kz/ihlsdbznb1nm.o\" \"d8kz/erpd2ovjr4m8.o\" \"d8kz/qdg29w9njudk.o\" \"d8kz/2gy11tfwc6lg.o\" \"d8kz/pfped6ra07tr.o\" \"d8kz/hp4nv0dsbybd.o\" \"d8kz/63n0hiqe7jiy.o\" \"87li/06mdz4cwvc9w.o\" \"87li/0liahdt5qrq2.o\" \"87li/0o2x8k4a98h0.o\" \"87li/0om8s5c9teqz.o\" \"87li/20lapr55yfvf.o\" \"87li/21t0ezj08woq.o\" \"87li/2dpufexo3ft0.o\" \"87li/2tgtyceo2fee.o\" \"87li/2ug451px1350.o\" \"87li/31occr96uytv.o\" \"87li/37cgat2e5oyu.o\" \"87li/3h9o7has4gc6.o\" \"87li/3k2cyr6xqj1t.o\" \"87li/3sdk26egmeua.o\" \"87li/3tdbodgrdy7a.o\" \"87li/46pjmzp3ah9m.o\" \"87li/49lzigcpgdzf.o\" \"87li/537121mnrz3c.o\" \"87li/58o52tge6xu7.o\" \"87li/5jwsqz39uvba.o\" \"87li/5woewzp6d3i4.o\" \"87li/6bbtkylbfgj3.o\" \"87li/6qnyb10i14ep.o\" \"87li/6rwqqqu6nzm9.o\" \"87li/6tbwqjvmqkc6.o\" \"87li/6x476r0jw0o5.o\" \"87li/7025dm3jy7vv.o\" \"87li/7r1tnwwvlf0i.o\" \"87li/8j1oitsi1q0o.o\" \"87li/92ml5hx1catq.o\" \"87li/96cwwuyszmw0.o\" \"87li/9pd04nu16oqg.o\" \"87li/9um2a6ean8bc.o\" \"87li/a3kyequnt6c1.o\" \"87li/a7j5nv0gabg3.o\" \"87li/ahpaz63ykf73.o\" \"87li/b02v1jnkzr0f.o\" \"87li/b1ks6itpvqmy.o\" \"87li/b1pfr6y4qox7.o\" \"87li/b3b7j1qmx6gj.o\" \"87li/bm4oboej1ydj.o\" \"87li/bo8of9nrw0e8.o\" \"87li/c56p0yw2sg0y.o\" \"87li/c88w21i9m1ih.o\" \"87li/cbjzdqa2hykv.o\" \"87li/cfpvaoli55d7.o\" \"87li/ciu90c3lyavv.o\" \"87li/d032n4a0atf3.o\" \"87li/d8lmhqdtdqwa.o\" \"87li/dfserjkl6d4f.o\" \"87li/dn9yfx8s9pc0.o\" \"87li/dqunp3yk6qwx.o\" \"87li/ecruvbz2gjnn.o\" \"87li/ek350kni0o4w.o\" \"87li/eu040y51fzff.o\" \"87li/fkrmgbjs4tba.o\" \"87li/flvb8i501oqz.o\" \"87li/fmpfqiemw67h.o\" \"87li/futhfy85de1p.o\" \"87li/fvuza0r1dc8b.o\" \"87li/fwsq8nyps2nf.o\" \"87li/g6jhh56w55su.o\" \"87li/grund143f4hu.o\" \"87li/h22gkpbbxpuj.o\" \"87li/hiadtwywev9v.o\" \"87li/hme34w286g4k.o\" \"87li/ht9wmpu3jmg2.o\" \"87li/hy4scy9ihdsg.o\" \"87li/hyyhb4oypq0n.o\" \"87li/i3km5t32be97.o\" \"87li/id4zg6699thk.o\" \"87li/ji9whyl0e2if.o\" \"87li/jo64ptkkumc9.o\" \"87li/juk1k2vi0erj.o\" \"87li/jv7jg6fjq88y.o\" \"87li/kh9zccn2l6gi.o\" \"87li/kiiab7i09nam.o\" \"87li/kiwrqe3gkvdb.o\" \"87li/klqncm0gcou3.o\" \"87li/kxuxi4vxupko.o\" \"87li/lpg5lsxt09er.o\" \"87li/lweiie5d69xe.o\" \"87li/m416wqpudhs4.o\" \"87li/m44u8kflj8f1.o\" \"87li/mpzva7t97gy3.o\" \"87li/myestn748x1e.o\" \"87li/n0jiekl6hmxc.o\" \"87li/ng5fkcu1q50i.o\" \"87li/npboqh0lff4j.o\" \"87li/nvfh0s739l02.o\" \"87li/nw0v5ya4729x.o\" \"87li/nx6n4vdps81f.o\" \"87li/o8qnn0vxwpvl.o\" \"87li/onr615cuh6qo.o\" \"87li/oy3sm324oika.o\" \"87li/p89dcfsd4wey.o\" \"87li/p8txnupzvj6q.o\" \"87li/pncpyyny9w8y.o\" \"87li/pnfdatdpfowv.o\" \"87li/q43h3667tlnx.o\" \"87li/qgh653btooia.o\" \"87li/ra56yfy4ibgt.o\" \"87li/rbqjtt0j998b.o\" \"87li/rcoh1juqftbu.o\" \"87li/rylxl44jmxfz.o\" \"87li/s7jy896li03j.o\" \"87li/s9tehzsxojwq.o\" \"87li/si4628yxwgir.o\" \"87li/tzro7baxk4y4.o\" \"87li/ukumrtr1ll8s.o\" \"87li/v1ep4gx1swyl.o\" \"87li/v40xxmtqo0ei.o\" \"87li/w1tk1wo6wlog.o\" \"87li/w4bhjvzk9jhk.o\" \"87li/wcr109pq8hi2.o\" \"87li/x5rf7c66ct15.o\" \"87li/x6wxvcr496ui.o\" \"87li/xncvxweszws2.o\" \"87li/xyi7gaao7a8g.o\" \"87li/y8bcl8lxtk7q.o\" \"87li/ykp75ov5ocfg.o\" \"87li/zhbsnj712zel.o\" \"dqdh/rf4u5passich.o\" \"dqdh/wy7ntn2ieea1.o\" \"zz99/093xpcc68r1v.o\" \"zz99/36h26ph0sg1q.o\" \"zz99/6izvvshfrpvv.o\" \"zz99/9c1dyh0tntl4.o\" \"zz99/dc6q4gpzqdim.o\" \"zz99/ilgdr1vvjt8p.o\" \"zz99/lbv98gz6v0ho.o\" \"zz99/n6rbizelcw0l.o\" \"zz99/prqrsyr1axol.o\" \"zz99/se1z6ne9qp9n.o\" \"zz99/vou4hbyoecef.o\" \"zz99/wrcnoxhneic8.o\" \"zz99/y1uacu576c05.o\" \"zz99/zhl5dxrg1628.o\" -Wl,--wrap,sigaction -Wl,--wrap,sigaction -fuse-ld=bfd.exe -Wl,--gc-sections -Wl,--fatal-warnings -Wl,-soname=libil2cpp.so -Wl,--no-undefined -Wl,--build-id -Wl,-z,noexecstack -shared -rdynamic -static-libstdc++  -Wl,-z,relro \"C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/jniStaticLibs/arm64-v8a/baselib.a\" -l\"log\"",
       "Inputs": [],
       "Outputs": [
         "C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/build/il2cpp_arm64-v8a_Release/il2cpp_cache/buildstate/artifacts/rsp/1729919944154292146.rsp"
       ],
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 439
+      "DebugActionIndex": 435
     },
     {
       "Annotation": "Link_Android_arm64 d8kz/libil2cpp.so",
@@ -8046,8 +7978,6 @@
         "d8kz/qd9wwmfedymx.o",
         "d8kz/oa26an2yjo5f.o",
         "d8kz/mnn9fm4i1glo.o",
-        "d8kz/wqgrolu7iov7.o",
-        "d8kz/72vcnxh6bjhc.o",
         "d8kz/4ki2gyxhar4x.o",
         "d8kz/2bh568fedrnd.o",
         "d8kz/lmkxrdl8cbu3.o",
@@ -8103,8 +8033,6 @@
         "d8kz/kort5c933lwz.o",
         "d8kz/ihlsdbznb1nm.o",
         "d8kz/erpd2ovjr4m8.o",
-        "d8kz/c07754otkzkh.o",
-        "d8kz/jxugtjb7xjox.o",
         "d8kz/qdg29w9njudk.o",
         "d8kz/2gy11tfwc6lg.o",
         "d8kz/pfped6ra07tr.o",
@@ -8621,11 +8549,7 @@
         432,
         433,
         434,
-        435,
-        436,
-        437,
-        438,
-        439
+        435
       ],
       "FrontendResponseFiles": [
         "C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/build/il2cpp_arm64-v8a_Release/il2cpp_cache/buildstate/artifacts/rsp/1729919944154292146.rsp"
@@ -8633,7 +8557,7 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
       "CachingMode": "ByLeafInputs",
-      "DebugActionIndex": 440
+      "DebugActionIndex": 436
     },
     {
       "Annotation": "CopyFiles C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/build/il2cpp_arm64-v8a_Release/il2cpp_cache/buildstate/artifacts/objcopy_gqhv/libil2cpp.dbg.so",
@@ -8645,9 +8569,9 @@
         "C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/build/il2cpp_arm64-v8a_Release/il2cpp_cache/buildstate/artifacts/objcopy_gqhv/libil2cpp.dbg.so"
       ],
       "ToBuildDependencies": [
-        440
+        436
       ],
-      "DebugActionIndex": 441
+      "DebugActionIndex": 437
     },
     {
       "Annotation": "NdkObjCopy C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/build/il2cpp_arm64-v8a_Release/il2cpp_cache/buildstate/artifacts/objcopy_gqhv/stripped/libil2cpp.so",
@@ -8660,10 +8584,10 @@
         "C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/build/il2cpp_arm64-v8a_Release/il2cpp_cache/buildstate/artifacts/objcopy_gqhv/stripped/libil2cpp.so"
       ],
       "ToBuildDependencies": [
-        441
+        437
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 442
+      "DebugActionIndex": 438
     },
     {
       "Annotation": "NdkObjCopy C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/build/il2cpp_arm64-v8a_Release/il2cpp_cache/buildstate/artifacts/objcopy_gqhv/libil2cpp.sym.so",
@@ -8675,10 +8599,10 @@
         "C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/build/il2cpp_arm64-v8a_Release/il2cpp_cache/buildstate/artifacts/objcopy_gqhv/libil2cpp.sym.so"
       ],
       "ToBuildDependencies": [
-        441
+        437
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 443
+      "DebugActionIndex": 439
     },
     {
       "Annotation": "NdkObjCopy C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/build/il2cpp_arm64-v8a_Release/il2cpp_cache/buildstate/artifacts/objcopy_gqhv/libil2cpp.so",
@@ -8691,11 +8615,11 @@
         "C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/build/il2cpp_arm64-v8a_Release/il2cpp_cache/buildstate/artifacts/objcopy_gqhv/libil2cpp.so"
       ],
       "ToBuildDependencies": [
-        442,
-        443
+        438,
+        439
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 444
+      "DebugActionIndex": 440
     },
     {
       "Annotation": "CopyFiles C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/jniLibs/arm64-v8a/libil2cpp.so",
@@ -8707,15 +8631,15 @@
         "C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/jniLibs/arm64-v8a/libil2cpp.so"
       ],
       "ToBuildDependencies": [
-        444,
-        446,
-        447
+        440,
+        442,
+        443
       ],
       "ToUseDependencies": [
-        446,
-        447
+        442,
+        443
       ],
-      "DebugActionIndex": 445
+      "DebugActionIndex": 441
     },
     {
       "Annotation": "CopyFiles C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/jniLibs/arm64-v8a/libil2cpp.dbg.so",
@@ -8727,13 +8651,13 @@
         "C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/jniLibs/arm64-v8a/libil2cpp.dbg.so"
       ],
       "ToBuildDependencies": [
-        440,
-        447
+        436,
+        443
       ],
       "ToUseDependencies": [
-        447
+        443
       ],
-      "DebugActionIndex": 446
+      "DebugActionIndex": 442
     },
     {
       "Annotation": "CopyFiles C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/jniLibs/arm64-v8a/libil2cpp.sym.so",
@@ -8745,9 +8669,9 @@
         "C:/Users/minsi/Downloads/NativeAndroidApp/UnityProject/androidBuild/unityLibrary/src/main/jniLibs/arm64-v8a/libil2cpp.sym.so"
       ],
       "ToBuildDependencies": [
-        443
+        439
       ],
-      "DebugActionIndex": 447
+      "DebugActionIndex": 443
     },
     {
       "Annotation": "FinalProgram",
@@ -8755,10 +8679,10 @@
       "Inputs": [],
       "Outputs": [],
       "ToBuildDependencies": [
-        445
+        441
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 448
+      "DebugActionIndex": 444
     }
   ],
   "FileSignatures": [
@@ -9903,7 +9827,7 @@
   "EmitDataForBeeWhy": 1,
         "NamedNodes": {
           "all_tundra_nodes": 0,
-          "FinalProgram": 448
+          "FinalProgram": 444
         }
 ,  "DefaultNodes": [
     0

@@ -23,7 +23,12 @@ struct String_t;
 struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915;
 
 IL2CPP_EXTERN_C RuntimeClass* SceneManager_tA0EF56A88ACA4A15731AF7FDC10A869FA4C698FA_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C String_t* _stringLiteral88AC789B5F572631AE8E3F32B5976FD31C2ABF22;
+IL2CPP_EXTERN_C String_t* _stringLiteral069CEF18DC217AF958B4695732F01DB3723B603F;
+IL2CPP_EXTERN_C String_t* _stringLiteral7A0CC02397614F53D94EF68B3B7815725F3A0461;
+IL2CPP_EXTERN_C String_t* _stringLiteralA8618F269069786C701281623E2066812663F23B;
+IL2CPP_EXTERN_C String_t* _stringLiteralBBE06100D0E83814D2E0564DE2C8D3EE1ED8174E;
+IL2CPP_EXTERN_C String_t* _stringLiteralC5F76253A4A93716A5F9BDBAAFC8B6FE254BC805;
+IL2CPP_EXTERN_C String_t* _stringLiteralFE1828C8E83AC98800407E44CDA680BCCD0C2575;
 
 
 IL2CPP_EXTERN_C_BEGIN
@@ -202,18 +207,98 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SceneManager_LoadScene_m0957E62F2A0A0243
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// System.Void OpenURL::SquatURL()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void OpenURL_SquatURL_m331B6B97906D3E722A5089E3CFF97B1A038DE6CB (OpenURL_t9DA86971C4C6E34FF922861FA8D7BAD7E0024D0A* __this, const RuntimeMethod* method) 
+// System.Void OpenURL::PushUpURL()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void OpenURL_PushUpURL_m3033B79D416CE5C90BC9EF2320E61CD32D69B38A (OpenURL_t9DA86971C4C6E34FF922861FA8D7BAD7E0024D0A* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral88AC789B5F572631AE8E3F32B5976FD31C2ABF22);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral069CEF18DC217AF958B4695732F01DB3723B603F);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		// Application.OpenURL("https://www.youtube.com/watch?v=kz84Fc6HGu4&t=10s");
-		Application_OpenURL_mE748FA4D503715DEE12BCA4BDD8A5305AE41DB89(_stringLiteral88AC789B5F572631AE8E3F32B5976FD31C2ABF22, NULL);
+		// Application.OpenURL("https://www.youtube.com/watch?v=aoH7qNedO8k");
+		Application_OpenURL_mE748FA4D503715DEE12BCA4BDD8A5305AE41DB89(_stringLiteral069CEF18DC217AF958B4695732F01DB3723B603F, NULL);
+		// }
+		return;
+	}
+}
+// System.Void OpenURL::JumpingURL()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void OpenURL_JumpingURL_m37180D3AE803687AA3D3CA8758FE2C8FFB115A90 (OpenURL_t9DA86971C4C6E34FF922861FA8D7BAD7E0024D0A* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralBBE06100D0E83814D2E0564DE2C8D3EE1ED8174E);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		// Application.OpenURL("https://www.youtube.com/watch?v=lFiB5A1eGWM");
+		Application_OpenURL_mE748FA4D503715DEE12BCA4BDD8A5305AE41DB89(_stringLiteralBBE06100D0E83814D2E0564DE2C8D3EE1ED8174E, NULL);
+		// }
+		return;
+	}
+}
+// System.Void OpenURL::SitUpURL()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void OpenURL_SitUpURL_m05E694795438E8F754656EE4A17C9B527C587EB3 (OpenURL_t9DA86971C4C6E34FF922861FA8D7BAD7E0024D0A* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral7A0CC02397614F53D94EF68B3B7815725F3A0461);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		// Application.OpenURL("https://www.youtube.com/watch?v=tfwbpv6gCbg");
+		Application_OpenURL_mE748FA4D503715DEE12BCA4BDD8A5305AE41DB89(_stringLiteral7A0CC02397614F53D94EF68B3B7815725F3A0461, NULL);
+		// }
+		return;
+	}
+}
+// System.Void OpenURL::BurpeeURL()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void OpenURL_BurpeeURL_m8B6AB6CE7B6DDFE8745CC3B2AEF2170F03030E5D (OpenURL_t9DA86971C4C6E34FF922861FA8D7BAD7E0024D0A* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralC5F76253A4A93716A5F9BDBAAFC8B6FE254BC805);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		// Application.OpenURL("https://www.youtube.com/watch?v=hVPgQT7cZdY");
+		Application_OpenURL_mE748FA4D503715DEE12BCA4BDD8A5305AE41DB89(_stringLiteralC5F76253A4A93716A5F9BDBAAFC8B6FE254BC805, NULL);
+		// }
+		return;
+	}
+}
+// System.Void OpenURL::pullupURL()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void OpenURL_pullupURL_m53631843C31B5C1CC47B74977198F805A5944A3B (OpenURL_t9DA86971C4C6E34FF922861FA8D7BAD7E0024D0A* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralFE1828C8E83AC98800407E44CDA680BCCD0C2575);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		// Application.OpenURL("https://www.youtube.com/watch?v=nWhS28U6bCY");
+		Application_OpenURL_mE748FA4D503715DEE12BCA4BDD8A5305AE41DB89(_stringLiteralFE1828C8E83AC98800407E44CDA680BCCD0C2575, NULL);
+		// }
+		return;
+	}
+}
+// System.Void OpenURL::SquatL()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void OpenURL_SquatL_m4C8124FB766E27D3CD467063201D911FE2B31971 (OpenURL_t9DA86971C4C6E34FF922861FA8D7BAD7E0024D0A* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralA8618F269069786C701281623E2066812663F23B);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		// Application.OpenURL("https://www.youtube.com/watch?v=kz84Fc6HGu4&t=515s");
+		Application_OpenURL_mE748FA4D503715DEE12BCA4BDD8A5305AE41DB89(_stringLiteralA8618F269069786C701281623E2066812663F23B, NULL);
 		// }
 		return;
 	}
